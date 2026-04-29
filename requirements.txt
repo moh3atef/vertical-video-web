@@ -1,6 +1,5 @@
 streamlit
-opencv-python-headless
-mediapipe==0.10.9
+opencv-python-headless==4.13.0.92
+mediapipe==0.10.35
 ffmpeg-python
 numpy
-protobuf==3.20.3
